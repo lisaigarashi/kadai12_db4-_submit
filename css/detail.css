@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.name{
+    padding:20px;
+  
+
+}
+.worried{
+   padding-bottom:50px;
+   margin:10px;
+}
+input[type="text"]{
+    height:5rm;
+}

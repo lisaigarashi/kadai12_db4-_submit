@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    padding: 100px;
+    margin: 40px;
+  
+}
+form{
+    text-align: center;
+
+}
+
+.back{
+    text-align:center;
+    padding: 30px;
+    
+}
+.flg{
+    display: flex;
+    text-align: center;
+}
+
